@@ -29,7 +29,7 @@ namespace Education.DataAccess.Services.Concrete
 
         public Task<Group> GetById(int id)
         {
-            //return
+            return _unitOfWork.Groups.GetById(id);
         }
 
         public Task<Group> UpdateAsync(Group item)

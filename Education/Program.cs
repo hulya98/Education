@@ -15,6 +15,7 @@ builder.Services.AddDbContext<Context>(options =>
 
 var app = builder.Build();
 
+builder.WebHost.UseUrls("https://*:1000");
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
