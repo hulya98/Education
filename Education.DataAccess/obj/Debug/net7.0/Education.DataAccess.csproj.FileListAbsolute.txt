@@ -1,0 +1,13 @@
+C:\Users\Hulya\Source\repos\Education\Education.DataAccess\obj\Debug\net7.0\Education.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hulya\Source\repos\Education\Education.DataAccess\obj\Debug\net7.0\Education.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hulya\Source\repos\Education\Education.DataAccess\obj\Debug\net7.0\Education.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hulya\Source\repos\Education\Education.DataAccess\obj\Debug\net7.0\Education.DataAccess.AssemblyInfo.cs
+C:\Users\Hulya\Source\repos\Education\Education.DataAccess\obj\Debug\net7.0\Education.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hulya\Source\repos\Education\Education.DataAccess\obj\Debug\net7.0\Education.DataAccess.sourcelink.json
+C:\Users\Hulya\Source\repos\Education\Education.DataAccess\bin\Debug\net7.0\Education.DataAccess.deps.json
+C:\Users\Hulya\Source\repos\Education\Education.DataAccess\bin\Debug\net7.0\Education.DataAccess.dll
+C:\Users\Hulya\Source\repos\Education\Education.DataAccess\bin\Debug\net7.0\Education.DataAccess.pdb
+C:\Users\Hulya\Source\repos\Education\Education.DataAccess\obj\Debug\net7.0\Education.DataAccess.dll
+C:\Users\Hulya\Source\repos\Education\Education.DataAccess\obj\Debug\net7.0\refint\Education.DataAccess.dll
+C:\Users\Hulya\Source\repos\Education\Education.DataAccess\obj\Debug\net7.0\Education.DataAccess.pdb
+C:\Users\Hulya\Source\repos\Education\Education.DataAccess\obj\Debug\net7.0\ref\Education.DataAccess.dll
