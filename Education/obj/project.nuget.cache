@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r7owJpiOUJo=",
+  "dgSpecHash": "5ryxMTmQZ3c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education\\API.csproj",
+  "projectFilePath": "C:\\Users\\Hulya\\Source\\Education\\Education\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hulya\\.nuget\\packages\\asp.versioning.abstractions\\7.0.0\\asp.versioning.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Hulya\\.nuget\\packages\\asp.versioning.http\\7.1.0\\asp.versioning.http.7.1.0.nupkg.sha512",

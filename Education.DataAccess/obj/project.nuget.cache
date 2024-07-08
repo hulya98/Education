@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fCymKMk+QK0=",
+  "dgSpecHash": "H8USDphvGco=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.DataAccess\\Education.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Hulya\\Source\\Education\\Education.DataAccess\\Education.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hulya\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Hulya\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

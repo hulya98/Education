@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hulya\\Source\\repos\\Education\\Education\\API.csproj": {}
+    "C:\\Users\\Hulya\\Source\\Education\\Education\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.DataAccess\\Education.DataAccess.csproj": {
+    "C:\\Users\\Hulya\\Source\\Education\\Education.DataAccess\\Education.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.DataAccess\\Education.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Hulya\\Source\\Education\\Education.DataAccess\\Education.DataAccess.csproj",
         "projectName": "Education.DataAccess",
-        "projectPath": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.DataAccess\\Education.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Hulya\\Source\\Education\\Education.DataAccess\\Education.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Hulya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Hulya\\Source\\Education\\Education.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hulya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\Hulya\\Source\\repos\\Education\\Education\\API.csproj": {
+    "C:\\Users\\Hulya\\Source\\Education\\Education\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Hulya\\Source\\Education\\Education\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education\\API.csproj",
+        "projectPath": "C:\\Users\\Hulya\\Source\\Education\\Education\\API.csproj",
         "packagesPath": "C:\\Users\\Hulya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education\\obj\\",
+        "outputPath": "C:\\Users\\Hulya\\Source\\Education\\Education\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hulya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,8 +104,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.DataAccess\\Education.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.DataAccess\\Education.DataAccess.csproj"
+              "C:\\Users\\Hulya\\Source\\Education\\Education.DataAccess\\Education.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Hulya\\Source\\Education\\Education.DataAccess\\Education.DataAccess.csproj"
               }
             }
           }

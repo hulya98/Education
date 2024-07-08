@@ -2707,11 +2707,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.DataAccess\\Education.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Hulya\\Source\\Education\\Education.DataAccess\\Education.DataAccess.csproj",
       "projectName": "Education.DataAccess",
-      "projectPath": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.DataAccess\\Education.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Hulya\\Source\\Education\\Education.DataAccess\\Education.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Hulya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\Hulya\\Source\\Education\\Education.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hulya\\AppData\\Roaming\\NuGet\\NuGet.Config",

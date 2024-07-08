@@ -2725,11 +2725,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.Business\\Education.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Hulya\\Source\\Education\\Education.Business\\Education.Business.csproj",
       "projectName": "Education.Business",
-      "projectPath": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.Business\\Education.Business.csproj",
+      "projectPath": "C:\\Users\\Hulya\\Source\\Education\\Education.Business\\Education.Business.csproj",
       "packagesPath": "C:\\Users\\Hulya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.Business\\obj\\",
+      "outputPath": "C:\\Users\\Hulya\\Source\\Education\\Education.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hulya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2747,8 +2747,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.DataAccess\\Education.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Hulya\\Source\\repos\\Education\\Education.DataAccess\\Education.DataAccess.csproj"
+            "C:\\Users\\Hulya\\Source\\Education\\Education.DataAccess\\Education.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Hulya\\Source\\Education\\Education.DataAccess\\Education.DataAccess.csproj"
             }
           }
         }
