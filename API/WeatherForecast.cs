@@ -1,4 +1,4 @@
-namespace Education
+namespace API
 {
     public class WeatherForecast
     {
